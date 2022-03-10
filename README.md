@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jerkybear
+- 👀 I’m interested in C and Java
+- 🌱 I’m currently learning C
